@@ -14,4 +14,4 @@ I added notes to both files of what I exactly changed. If you have any further q
 
 ## Application 
 
-![alt="Four people in a meeting."]("assets/images/digital-marketing-meeting.jpg")
+![alt="Four people in a meeting"]("Assets//01-html-css-git-homework-demo.png")
