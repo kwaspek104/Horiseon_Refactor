@@ -10,8 +10,8 @@ I also fixed a broken link; if you click on any of the three phrases in the uppe
 
 I added notes to both files of what I exactly changed. If you have any further questions or comments, please feel free to e-mail me at kasper.kuzmicki@yahoo.com. Thank you!
 
-## Github Link
+## Application Link
 
-## Application 
+## Image 
 
 ![](Assets/01-html-css-git-homework-demo.png)
